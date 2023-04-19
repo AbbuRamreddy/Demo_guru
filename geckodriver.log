@@ -1,0 +1,73 @@
+1681820109630	geckodriver	INFO	Listening on 127.0.0.1:65018
+1681820112754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABBURA~1\\AppData\\Local\\Temp\\rust_mozprofilea2JLWm"
+1681820232077	geckodriver	INFO	Listening on 127.0.0.1:65179
+1681820235177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABBURA~1\\AppData\\Local\\Temp\\rust_mozprofile4f5vqQ"
+1681820236011	Marionette	INFO	Marionette enabled
+1681820236021	Marionette	INFO	Listening on port 65198
+Read port: 65198
+WebDriver BiDi listening on ws://127.0.0.1:65180
+1681820236290	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABBURA~1\\AppData\\Local\\Temp\\rust_mozprofile4f5vqQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65180/devtools/browser/cfdf42c8-78ff-404d-ab55-38d924acefba
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demo.guru99.com."
+JavaScript error: , line 0: uncaught exception: undefined
+1681820263175	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 5838 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7508 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[GFX1-]: Unrecognized feature ACCELERATED_CANVAS2D
+1681822207328	Marionette	INFO	Stopped listening on port 65198
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 5580, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+"
+1681821935442	Marionette	INFO	Marionette enabled
+1681821935456	Marionette	INFO	Listening on port 62758
+Read port: 62758
+WebDriver BiDi listening on ws://127.0.0.1:62741
+1681821935747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABBURA~1\\AppData\\Local\\Temp\\rust_mozprofileNkkTIP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62741/devtools/browser/c6875c32-727e-4655-be25-f28e923b1a32
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4566 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demo.guru99.com."
+JavaScript error: , line 0: uncaught exception: undefined
+1681821987305	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7060 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 6549 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 7516 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681822042563	geckodriver	INFO	Listening on 127.0.01681822210358	Marionette	INFO	Stopped listening on port 62758
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+t" "62951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ABBURA~1\\AppData\\Local\\Temp\\rust_mozprofileSXCojX"
+1681822046724	Marionette	INFO	Marionette enabled
+1681822046734	Marionette	INFO	Listening on port 63004
+Read port: 63004
+WebDriver BiDi listening on ws://127.0.0.1:62951
+1681822047078	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ABBURA~1\\AppData\\Local\\Temp\\rust_mozprofileSXCojX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62951/devtools/browser/28ab769c-1a1f-43ae-bf46-5ba59a9c594a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.demo.guru99.com."
+1681822090903	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 4887 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sT94e_Y9T67XXT_Bc0Lekmp70Liu2pVFNITCmIvtqgQ.js line 2 > eval line 2645 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1681822211742	Marionette	INFO	Stopped listening on port 63004
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
